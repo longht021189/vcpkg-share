@@ -1,0 +1,5 @@
+{
+  "platform": "linux-arm64",
+  "triplet": "arm64-linux",
+  "vcpkgCommit": "6ade29bbd5a4c7e99439ec52adbc63c073953a57"
+}

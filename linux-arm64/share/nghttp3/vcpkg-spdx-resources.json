@@ -1,0 +1,19 @@
+{
+  "packages": [
+{
+  "SPDXID" : "SPDXRef-resource-0",
+  "checksums" : 
+  [
+    {
+      "algorithm" : "SHA512",
+      "checksumValue" : "2d8bfed2ef5d9906769d717dff934d7b2a1ed832b5e17e56615b2c817093730ac2378b212d420ac6296158e1b0ac667ed6db4226016cb11797c0edc3083ef984"
+    }
+  ],
+  "copyrightText" : "NOASSERTION",
+  "downloadLocation" : "git+https://github.com/ngtcp2/nghttp3@v1.18.0",
+  "licenseConcluded" : "NOASSERTION",
+  "licenseDeclared" : "NOASSERTION",
+  "name" : "ngtcp2/nghttp3"
+}
+  ]
+}

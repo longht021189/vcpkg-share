@@ -1,0 +1,19 @@
+{
+  "packages": [
+{
+  "SPDXID" : "SPDXRef-resource-0",
+  "checksums" : 
+  [
+    {
+      "algorithm" : "SHA512",
+      "checksumValue" : "cf5e7ac12af29c7ff77247b71d74e9b109444fd61a52f8b44c4421eb48e23865aba3618371f658d362740df92a21657b5e1298cea1e5685f24dbd7ed3b9ca5d1"
+    }
+  ],
+  "copyrightText" : "NOASSERTION",
+  "downloadLocation" : "git+https://github.com/ngtcp2/sfparse@4b313cfd2e1b389ae632b36dcd50402307289af2",
+  "licenseConcluded" : "NOASSERTION",
+  "licenseDeclared" : "NOASSERTION",
+  "name" : "ngtcp2/sfparse"
+}
+  ]
+}
